@@ -3,7 +3,7 @@
 #---------------------------
 
 favicon: /img/saturn.ico
-apple_touch_icon: /saturn.ico
+apple_touch_icon: /img/saturn.ico
 
 code:
   copy_btn: true
