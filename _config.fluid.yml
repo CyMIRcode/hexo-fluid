@@ -1,13 +1,10 @@
 #---------------------------
 # Hexo Theme Fluid
-# 配置指南: https://hexo.fluid-dev.com/docs/guide/
 #---------------------------
 
-# 用于浏览器标签的图标
 favicon: /img/fluid.png
 apple_touch_icon: /img/fluid.png
 
-# 代码块
 code:
   copy_btn: true
   language:
@@ -20,7 +17,6 @@ code:
       style: "github gist"
       style_dark: "dark"
 
-# 赛博风核心功能：打字机效果
 fun_features:
   typing:
     enable: true
@@ -28,56 +24,43 @@ fun_features:
     cursorChar: "_"
     loop: false
   
-  # 加载进度条
   progressbar:
     enable: true
     height_px: 3
-    color: "#00f2ff" # 改成了赛博电光蓝
+    color: "#00f2ff"
 
-# 暗色模式设置
 dark_mode:
   enable: true
-  default: dark # 强制开启暗黑模式
+  default: dark
 
-# 导航栏设置
 navbar:
-  blog_title: "IDV.NG | NEON" # 你的站名
+  blog_title: "IDV.NG | NEON"
   menu:
     - { key: "home", link: "/", icon: "iconfont icon-home-fill" }
     - { key: "archive", link: "/archives/", icon: "iconfont icon-archive-fill" }
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
 
-# 首页头图设置
 index:
-  banner_img: https://images.unsplash.com/photo-1550745165-9bc0b252726f # 赛博风默认图
+  banner_img: https://images.unsplash.com/photo-1550745165-9bc0b252726f
   banner_img_height: 100
   slogan:
     enable: true
-    text: "系统已唤醒，数据传输中..." # 你的 Slogan
+    text: "系统已唤醒，数据传输中..."
 
-# 文章页设置
 post:
   banner_img: https://images.unsplash.com/photo-1614728263952-84ea256f9679
   meta:
     date: { enable: true, format: "LL a" }
     wordcount: { enable: true }
     min2read: { enable: true }
-  
-  # 侧边栏目录
   toc:
     enable: true
     placement: right
     collapseDepth: 0
 
-# 页脚设置
 footer:
-  content: '
-    <a href="https://idv.ng" target="_blank"><span>IDV.NG 数字群岛</span></a>
-    <i class="iconfont icon-love"></i>
-    <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank"><span>Fluid</span></a>
-  '
+  content: '<a href="https://idv.ng" target="_blank"><span>IDV.NG 数字群岛</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank"><span>Fluid</span></a>'
 
-# 懒加载
 lazyload:
   enable: true
   loading_img: /img/loading.gif
