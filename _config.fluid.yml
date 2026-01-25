@@ -41,7 +41,7 @@ navbar:
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
 
 index:
-  banner_img: /img/default.png
+  banner_img: /img/saturn.png
   banner_img_height: 100
   slogan:
     enable: true
