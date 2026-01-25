@@ -2,8 +2,8 @@
 # Hexo Theme Fluid
 #---------------------------
 
-favicon: /img/fluid.png
-apple_touch_icon: /img/fluid.png
+favicon: /img/saturn.ico
+apple_touch_icon: /saturn.ico
 
 code:
   copy_btn: true
