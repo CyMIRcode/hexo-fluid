@@ -23,4 +23,4 @@ We’re navigating the neon currents together.
 
 ---
 
-**[Hello world! Let’s ride the light.]**
+**[Hello world! Let’s ride the light!]**
