@@ -88,7 +88,8 @@ categories:
 
 她沉默了几秒钟，然后，用一种近乎叹息的语调，回答道：
 
-“I know”
+“I konw”
+
 ---
 
 **[I know]**
