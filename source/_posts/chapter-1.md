@@ -1,23 +1,26 @@
 ---
-title: 第一章：系统唤醒
-date: 2026-01-25 20:20:00
-updated: 2026-01-25 20:20:00
+title: Hello world!
+date: 2025-11-26
+updated: 2025-11-26
 index_img: https://images.unsplash.com/photo-1550745165-9bc0b252726f
 tags:
+  - cyberpunk
   - 赛博朋克
-  - 小说
+  - 霓虹河
 categories:
-  - PROJECT NEON
+  - Hello world
 ---
 
-## 接入请求... 成功
+## Hello world!
 
-雨水顺着破碎的霓虹灯牌滴落，在积水的路面上溅起一圈圈带着油污的反光。
+They promised a paradise. But to get there, we must cross the river of neon.
 
-这里是数字群岛的边缘，IDV.NG 赛博分区的第一个数据节点。我听到了系统的低鸣，那是来自 2026 年的第一次心跳。
+They call it progress. We call it the current.
 
-> "数据不是终点，记忆才是。"
+This isn’t about the destination. It’s about the journey. This blog is our map, our log, our shared signal through the static.
+
+We’re navigating the neon currents together.
 
 ---
 
-**[系统提示：第一章传输完毕]**
+**[Hello world! Let’s ride the light.]**
