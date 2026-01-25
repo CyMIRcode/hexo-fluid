@@ -8,7 +8,7 @@ tags:
   - 毕业即失业
   - 最终安置方案
 categories:
-  - Hello world
+  - 霓虹河
 ---
 
 ## 三个月“躺平”假期结束了!
