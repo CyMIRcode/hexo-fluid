@@ -2,7 +2,7 @@
 title: Hello world!
 date: 2025-11-26
 updated: 2025-11-26
-index_img: https://images.unsplash.com/photo-1550745165-9bc0b252726f
+index_img: /img/saturn.png
 tags:
   - cyberpunk
   - 赛博朋克
