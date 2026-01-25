@@ -41,7 +41,7 @@ navbar:
     - { key: "about", link: "/about/", icon: "iconfont icon-user-fill" }
 
 index:
-  banner_img: https://images.unsplash.com/photo-1550745165-9bc0b252726f
+  banner_img: /img/default.png
   banner_img_height: 100
   slogan:
     enable: true
