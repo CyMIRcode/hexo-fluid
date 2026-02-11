@@ -59,7 +59,7 @@ post:
     collapseDepth: 0
 
 footer:
-  content: '<a href="https://idv.ng" target="_blank"><span>IDV.NG 数字群岛</span></a> <i class="iconfont icon-love"></i> <a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank"><span>Fluid</span></a>'
+  content: 'Copyright 2026 © <a href="https://idv.ng" target="_blank"><span>IDV.NG 数字群岛</span></a> . All Rights Reserved>'
 
 lazyload:
   enable: true
