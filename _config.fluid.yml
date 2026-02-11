@@ -59,7 +59,7 @@ post:
     collapseDepth: 0
 
 footer:
-  content: 'Copyright 2026 © <a href="https://idv.ng" target="_blank"><span>IDV.NG 数字群岛</span></a> . All Rights Reserved>'
+  content: 'Copyright 2026 © <a href="https://idv.ng" target="_blank"><span>IDV.NG 数字群岛</span></a> . All Rights Reserved'
 
 lazyload:
   enable: true
