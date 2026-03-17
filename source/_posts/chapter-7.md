@@ -1,5 +1,5 @@
 ---
-title: 网吧里的鬼3：四维空间
+title: 四维空间
 date: 2026-02-10
 updated: 2026-02-10
 index_img:
