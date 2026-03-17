@@ -1,5 +1,5 @@
 ---
-title: 网吧里的鬼4：USDT
+title: USDT
 date: 2026-03-17
 updated: 2026-03-17
 index_img:
