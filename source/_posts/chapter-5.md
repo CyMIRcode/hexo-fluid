@@ -1,5 +1,5 @@
 ---
-title: 网吧里的鬼1：热血传奇
+title: 热血传奇
 date: 2026-01-01
 updated: 2026-01-01
 index_img:
