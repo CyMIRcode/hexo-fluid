@@ -1,5 +1,5 @@
 ---
-title: 网吧里的鬼2：2026
+title: 2026
 date: 2026-01-20
 updated: 2026-01-20
 index_img:
