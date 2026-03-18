@@ -2,7 +2,7 @@
 title: 你好，Joi
 date: 2025-12-2
 updated: 2025-12-2
-index_img:
+index_img: /img/webp/2.webp
 tags:
   - Joi
   - 女仆机器人
