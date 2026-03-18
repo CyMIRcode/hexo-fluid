@@ -2,7 +2,7 @@
 title: 三个月“躺平”假期结束了!
 date: 2025-11-28
 updated: 2025-11-28
-index_img:
+index_img:/img/webp/1.webp
 tags:
   - 躺平
   - 毕业即失业
