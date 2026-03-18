@@ -2,7 +2,7 @@
 title: USDT
 date: 2026-03-17
 updated: 2026-03-17
-index_img:
+index_img: /img/webp/7.webp
 tags:
   - 网吧里的鬼
   - 手机
