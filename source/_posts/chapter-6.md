@@ -2,7 +2,7 @@
 title: 2026
 date: 2026-01-20
 updated: 2026-01-20
-index_img:
+index_img: /img/webp/5.webp
 tags:
   - 网吧里的鬼
   - 保洁阿姨
