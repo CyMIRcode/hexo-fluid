@@ -2,7 +2,7 @@
 title: 回家
 date: 2025-12-20
 updated: 2025-12-20
-index_img: /img/webp/3.webp
+index_img: 
 tags:
   - 回家
   - 女仆机器人
