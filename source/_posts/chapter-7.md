@@ -2,7 +2,7 @@
 title: 四维空间
 date: 2026-02-10
 updated: 2026-02-10
-index_img: /img/webp/6.webp
+index_img: /img/saturn.png
 tags:
   - 网吧里的鬼
   - 四维空间
