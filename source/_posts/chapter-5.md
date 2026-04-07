@@ -2,7 +2,7 @@
 title: 热血传奇
 date: 2026-01-01
 updated: 2026-01-01
-index_img: /img/webp/4.webp
+index_img: /img/saturn.png
 tags:
   - 网吧里的鬼
   - 热血传奇
