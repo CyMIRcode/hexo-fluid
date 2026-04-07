@@ -3,7 +3,7 @@ title: 回家
 date: 2025-12-20
 updated: 2025-12-20
 index_img: 
-tags:
+tags: /img/webp/2.webp
   - 回家
   - 女仆机器人
   - 陪伴模式
